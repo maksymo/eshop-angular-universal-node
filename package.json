@@ -68,7 +68,7 @@
     "@types/node": "^12.0.3",
     "codelyzer": "^5.0.1",
     "compression": "^1.7.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "stylelint": "^10.0.1",
     "stylelint-config-recommended": "^2.2.0",
     "stylelint-config-recommended-scss": "^3.3.0",
